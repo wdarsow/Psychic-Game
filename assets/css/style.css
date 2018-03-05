@@ -1,3 +1,47 @@
 body {
-    background-color: tomato;
+    /*background-color: tomato;*/
+    background-image: url("../images/background.jpg");
 }
+
+.header1 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    border: 5px solid lightslategray; 
+    background-color: whitesmoke;
+}
+
+.main-container {
+    border: 5px solid lightslategray;
+    width: 25%;
+    position: absolute;
+    left: 37%;
+    top: 25%;
+    text-align: center;
+    height: 35%;
+    color: black;
+    background-color: whitesmoke;
+    padding: 1%;
+}
+
+h1, h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.header-class {
+    font-size: 48px;
+}
+
+.main-section {
+    text-align: left;
+}
+
+
+
+/* 
+.p-guesses-left {
+    float: left;
+    display: inline;
+}
+*/
