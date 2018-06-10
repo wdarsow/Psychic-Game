@@ -16,3 +16,5 @@ A: Please contact me if you need help with my project.
 Q: Who maintains and contributes to the project?
 A: I am the only person that is currently maintaining and contributing to this project. 
 
+This project has been deployed to the following URL: https://wdarsow.github.io/Psychic-Game/
+
